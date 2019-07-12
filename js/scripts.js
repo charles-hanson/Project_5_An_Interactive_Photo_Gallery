@@ -1,6 +1,6 @@
-// $(document).ready(function() {
+$(document).ready(function() {
 	$('#search').hideseek({
-    attribute: 'data-title',
+    attribute: 'alt',
     list: '.hideseek-data',
   });
-// });
+});
